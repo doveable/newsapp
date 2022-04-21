@@ -1,4 +1,4 @@
 newsapp
 =======
 
-hoogol's news app 
+ news app 
